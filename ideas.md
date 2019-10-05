@@ -2,4 +2,4 @@ ZenMode - Build an app that helps mobile phone users to stop phone addiction by 
 
 Scholarship - an app for showing scholarships in Nigeria
 
-Ofice management app
+Office management app
