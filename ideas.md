@@ -1,1 +1,2 @@
 ZenMode - Build an app that helps mobile phone users to stop phone addiction by paying them kin cryptocurrency for time spent working without touching/using their phones
+Stanley (Stanyke) - Create an app that helps compile a few story (feed) into smaller piece, it should be like a summary of the whole information that should also be meaning.
