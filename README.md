@@ -14,4 +14,4 @@ Git repo for Hacktober Ideas and Attendance to the Event
 6. Wait for your PR review and merge approval!
 
 
-⭐⭐Star this repository if you liked the idea and had fun.⭐⭐
+⭐⭐Star this repository if you liked the idea and have fun.⭐⭐
