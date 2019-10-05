@@ -1,1 +1,2 @@
 ZenMode - Build an app that helps mobile phone users to stop phone addiction by paying them kin cryptocurrency for time spent working without touching/using their phones
+Africat - Build an application where you  can find cartoons that preach/teach african culture/values and languages
